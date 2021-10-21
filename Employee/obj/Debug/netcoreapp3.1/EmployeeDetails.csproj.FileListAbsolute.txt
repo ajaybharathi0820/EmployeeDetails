@@ -1,0 +1,14 @@
+C:\Users\ajay\source\repos\Employee\Employee\obj\Debug\netcoreapp3.1\EmployeeDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajay\source\repos\Employee\Employee\obj\Debug\netcoreapp3.1\EmployeeDetails.AssemblyInfoInputs.cache
+C:\Users\ajay\source\repos\Employee\Employee\obj\Debug\netcoreapp3.1\EmployeeDetails.AssemblyInfo.cs
+C:\Users\ajay\source\repos\Employee\Employee\obj\Debug\netcoreapp3.1\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\ajay\source\repos\Employee\Employee\bin\Debug\netcoreapp3.1\EmployeeDetails.exe
+C:\Users\ajay\source\repos\Employee\Employee\bin\Debug\netcoreapp3.1\EmployeeDetails.deps.json
+C:\Users\ajay\source\repos\Employee\Employee\bin\Debug\netcoreapp3.1\EmployeeDetails.runtimeconfig.json
+C:\Users\ajay\source\repos\Employee\Employee\bin\Debug\netcoreapp3.1\EmployeeDetails.runtimeconfig.dev.json
+C:\Users\ajay\source\repos\Employee\Employee\bin\Debug\netcoreapp3.1\EmployeeDetails.dll
+C:\Users\ajay\source\repos\Employee\Employee\bin\Debug\netcoreapp3.1\EmployeeDetails.pdb
+C:\Users\ajay\source\repos\Employee\Employee\obj\Debug\netcoreapp3.1\EmployeeDetails.csproj.AssemblyReference.cache
+C:\Users\ajay\source\repos\Employee\Employee\obj\Debug\netcoreapp3.1\EmployeeDetails.dll
+C:\Users\ajay\source\repos\Employee\Employee\obj\Debug\netcoreapp3.1\EmployeeDetails.pdb
+C:\Users\ajay\source\repos\Employee\Employee\obj\Debug\netcoreapp3.1\EmployeeDetails.genruntimeconfig.cache
